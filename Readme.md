@@ -42,10 +42,6 @@ Este é um projeto onde pratiquei HTML e CSS criando páginas web para apresenta
    ```
 2. Abra o arquivo `index.html` em qualquer navegador.
 
-## 📷 Preview
-
-![Preview do Projeto](imagens/preview.png) *(Adicione um print do seu projeto aqui)*
-
 ## ✨ Melhorias Futuras
 
 - Adicionar interatividade com JavaScript
